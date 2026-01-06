@@ -11,10 +11,7 @@ problemList.forEach(problem => {
 function createAndAppendCard(problem) {
     const card = document.createElement("div");
     card.className = "card";
-    
-   
     card.id = `card-${problem.id}`;
-
     card.innerHTML = `
         <div class="card-header">
             <span class="badge badge-${problem.difficulty.toLowerCase()}">${problem.difficulty}</span>
@@ -56,8 +53,6 @@ function addProblem() {
         alert("Please enter a problem name!");
         return;
     }
-
-    
     const newProblem = {
         id: Date.now(),
         name: probName,
@@ -68,8 +63,6 @@ function addProblem() {
     };
     problemList.push(newProblem);
     localStorage.setItem("myProblems", JSON.stringify(problemList));
-
- 
     totalSpan.innerText = problemList.length;
 
     createAndAppendCard(newProblem);
