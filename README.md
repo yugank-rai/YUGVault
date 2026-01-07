@@ -41,6 +41,9 @@ This project was built to solidify my understanding of the following concepts:
 * **CSS3:** Implementing modern design trends like Glassmorphism and using Flexbox/Grid for layout.
 
 ---
+🚀 Future Roadmap: Currently, this is a frontend-only app, but in the next version, I plan to implement a proper Backend and Database to make it a complete Full-Stack application.
+
+---
 
 ### ⚡ How to Run Locally
 
