@@ -4,7 +4,7 @@
 
 I'm a passionate **Computer Science Engineering student** at **IIIT Bhagalpur** and a dedicated learner.
 
-While my other repositories track my coding journey, **AlgoVault** is the tool I built to organize it. This is a fully functional **Personal Problem Tracker** designed to help Competitive Programmers and DSA students save, tag, and review their solved problems efficiently.
+While my other repositories track my coding journey, **YUGVault** is the tool I built to organize it. This is a fully functional **Personal Problem Tracker** designed to help Competitive Programmers and DSA students save, tag, and review their solved problems efficiently.
 
 **🌱 My Goal:** To build a practical utility tool that solves a real problem I face as a student—managing the chaos of LeetCode and Codeforces links—while mastering **DOM manipulation** and **Browser Storage**.
 
